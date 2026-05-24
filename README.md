@@ -133,11 +133,11 @@ MongoDB indexing reduced average query time by ~83% on 10k+ contact datasets.
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-sen&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Aman's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=aman-sen&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sen&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-sen&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman-sen&theme=github-dark-blue&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aman-sen&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
