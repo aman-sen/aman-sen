@@ -29,7 +29,7 @@ B.Tech Computer Science @ IIIT Manipur (2023–2027) · CPI: 8.06/10
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--sen143-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aman-sen143)
 [![GitHub](https://img.shields.io/badge/GitHub-aman--sen-181717?style=flat&logo=github)](https://github.com/aman-sen)
 [![Email](https://img.shields.io/badge/Email-asen15334@gmail.com-D14836?style=flat&logo=gmail)](mailto:asen15334@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat&logo=googledocs)](https://your-resume-link-here)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat&logo=googledocs)]([https://your-resume-link-here](https://drive.google.com/file/d/1dXKD-s4I-E_s1uoNJp1s6kNX6KFi921V/view?usp=drive_link))
 
 </div>
 
